@@ -1,0 +1,167 @@
+body {
+  font-family: Inter, serif;
+}
+.bg-light {
+  background-color: #f5f6fa;
+}
+.bg-purple {
+  background-color: #9775fa;
+}
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+h2 {
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 1.1;
+}
+h3 {
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.1;
+}
+h4 {
+  width: 137px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+h5 {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.1;
+  margin-top: 5px;
+}
+h6 {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #8f959e;
+  margin-top: 15px;
+}
+.itemInfo p {
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #8f959e;
+}
+.sub p,
+.shippingCost p,
+.total p {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.1;
+}
+.item1 a.btn,
+.item2 a.btn {
+  border: 1px solid #dedede;
+  width: 25px;
+  height: 25px;
+}
+.checkIcon {
+  width: 25px;
+  height: 25px;
+  background-color: #4ac76d;
+  bottom: 12px;
+  right: 0;
+}
+.itemInfo .purchaseQuantity {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.1;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-weight: 600;
+  color: #1d1e20;
+}
+.header a {
+  width: 45px;
+  height: 45px;
+  background-color: #f5f6fa;
+}
+.item1,
+.item2 {
+  height: 120px;
+  margin-bottom: 20px;
+}
+.item1 {
+  box-shadow: 0 40px 100px 15px rgba(0, 0, 0, 0.25);
+}
+.radius {
+  border-radius: 10px;
+}
+.item1 img,
+.item2 img {
+  height: 96px;
+}
+.itemImage {
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.itemInfo {
+  margin-left: 15px;
+  margin-top: 12px;
+}
+.itemBtn {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.deleteIcon {
+  bottom: 10px;
+  right: 10px;
+}
+.mapImage,
+.visaImage {
+  width: 50px;
+  height: 50px;
+}
+.mapImage img {
+  width: 50px;
+  height: 50px;
+}
+.visaImage img {
+  width: 30px;
+  height: 30px;
+}
+.addressInfo,
+.paymentInfo {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.locationIcon {
+  bottom: auto;
+  right: auto;
+}
+.addressContent,
+.paymentCardNum {
+  margin-left: 15px;
+}
+.addressContent p,
+.paymentCardNum p {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #8f959e;
+  margin-top: 10px;
+}
+.checkoutBtn a {
+  width: 100%;
+  color: #fefefe;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.1;
+  padding-top: 15px;
+  padding-bottom: 41px;
+}
+.orderInfo {
+  margin-bottom: 24px;
+}
